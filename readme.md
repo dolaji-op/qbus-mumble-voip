@@ -1,9 +1,9 @@
 
---- Change DBFW to your core name
+Change DBFW to your core name
 
----- Done by Dolaji
+Done by Dolaji#1111
 
----- Discord - https://discord.gg/qZQfHuYWSm
+Discord - https://discord.gg/qZQfHuYWSm
 
 
 
